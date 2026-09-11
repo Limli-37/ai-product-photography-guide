@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "AI Product Photography Workflow: From Product Image to Campaign-Ready Visuals"
 description: "Learn how AI-assisted product photography can turn existing product images into consistent, campaign-ready visuals for ecommerce, social media, and advertising."
 ---

@@ -1,5 +1,8 @@
-# AI Product Photography Workflow: From Product Image to Campaign-Ready Visuals
-
+---
+layout: page
+title: "AI Product Photography Workflow: From Product Image to Campaign-Ready Visuals"
+description: "Learn how AI-assisted product photography can turn existing product images into consistent, campaign-ready visuals for ecommerce, social media, and advertising."
+---
 A practical, step-by-step breakdown of how AI-assisted product photography actually works, from a single source image to a full set of campaign-ready visuals.
 
 ## Table of Contents
